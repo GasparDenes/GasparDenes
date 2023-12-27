@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GasparDenes
-- 👀 I’m interested in Gamedevelopment and AI development
+- 👀 I’m interested in Game development, Fullstack programming, Embedded systems programming
 - 🌱 I’m currently learning Java and Python
 - 📫 How to reach me: gdenes007@gmail.com
 
