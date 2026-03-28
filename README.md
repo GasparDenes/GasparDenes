@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GasparDenes
-- 👀 I’m interested in Game development, Web development, Machine learning, AI
-- 🌱 I’m currently learning Java, Python and C#
+- 👀 I’m interested in gamedev, data engineering, backend, AI
+- 🌱 I’m currently learning C#, C++, Python, SQL 
 - 📫 How to reach me: gdenes007@gmail.com
 
 <!---
